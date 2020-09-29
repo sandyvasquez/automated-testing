@@ -21,5 +21,5 @@ class Deck
   def shuffle
     # shuffles the deck
   end
-  end
-  end
+ end
+end
