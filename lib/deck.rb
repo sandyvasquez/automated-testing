@@ -1,5 +1,4 @@
-
-# deck.rb
+#deck.rb
 
 require_relative 'card'
 
