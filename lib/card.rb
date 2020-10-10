@@ -14,7 +14,6 @@ class Card
       raise ArgumentError, "#{value} is an invalid value"
     end
 
-
     @value = value
     @suit = suit
   end
